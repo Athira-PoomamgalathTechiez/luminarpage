@@ -1,0 +1,36 @@
+h1{
+    color: blue;
+}
+#one{
+    color: wheat;
+}
+body{
+    
+    background-image: url(dream.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+div{
+    border-style: dotted;
+    border-color: white;
+    border-width: 5px;
+    background-color: yellow;
+    width: 50%;
+}
+#mi{
+    border-style: double;
+    border-color: rgb(168, 50, 168);
+    border-width: 5px;
+    background-color:rgb(50, 168, 80);
+    width: 50%;
+}
+div{
+    margin: auto;
+}
+div li{
+    margin-left: 100px;
+}
+div label{
+    margin-left: 100px;
+}

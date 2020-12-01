@@ -1,0 +1,8 @@
+.one{
+    color: red;
+}
+#sec{
+    border-style: double;
+    border-color: royalblue;
+    border-width: 5px;
+}

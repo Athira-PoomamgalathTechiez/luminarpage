@@ -1,0 +1,25 @@
+#t{
+    border-style: solid;
+    border-color: darkblue;
+    border-width: 6px;
+    width: 20%;
+    margin-left: 200px;
+    margin-top: 50px;
+    padding-left: 200px;
+    background-color: darkorange;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+}
+#bo{
+    border-style: solid;
+    border-color:darkgoldenrod;
+    border-width: 6px;
+    width: 20%;
+    margin-top: 250px;
+    margin-left: 200px;
+    padding-left: 200px;
+    background-color: darksalmon;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+
+}
